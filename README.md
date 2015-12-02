@@ -3,6 +3,7 @@ Data files associated to
 
 "General method for constructing local-hidden-state (and -variable) models for multiqubit entangled states"
 Daniel Cavalcanti, Leonardo Guerini, Rafael Rabelo and Paul Skrzypczyk
+http://arxiv.org/abs/1512.00277
 
 All files are MATLAB data files (.mat) and contain the example states which are entangled but have LHS models (either for projective measurements or for POVMs).
 
