@@ -2,8 +2,7 @@
 Data files associated to 
 
 [General method for constructing local-hidden-variable models for entangled quantum states](https://doi.org/10.1103/PhysRevLett.117.190401)
-
-Daniel Cavalcanti, Leonardo Guerini, Rafael Rabelo and Paul Skrzypczyk
+Daniel Cavalcanti, Leonardo Guerini, Rafael Rabelo and Paul Skrzypczyk  
 Phys. Rev. Lett. **117**, 190401 (2016)
 
 All files are MATLAB data files (.mat) and contain the example states which are entangled but have LHS models (either for projective measurements or for POVMs).
